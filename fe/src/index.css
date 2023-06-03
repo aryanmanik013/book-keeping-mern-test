@@ -1,0 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;1,100&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,400&family=Roboto:wght@300;400;500&display=swap');
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family:'Poppins',Courier, monospace;
+}
+
+.content{
+  /* height: 100vh; */
+  height: auto;
+  min-height: 100vh;
+  background-color: #f5f5dc;
+
+}
+.register-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.header-User{
+  margin-right: 5%;
+  color: white;
+}
+.card a {
+  color: black !important;
+  text-decoration: none;
+}
